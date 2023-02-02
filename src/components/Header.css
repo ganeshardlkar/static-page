@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: aliceblue;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    height: 80px;
+}
+
+.left-navbar {
+    display: flex;
+}
+
+.search-bar {
+    display: flex;
+
+    background-color: rgb(235, 235, 235);
+
+}
+
+.input-element {
+    border: 1px solid #fff;
+    background-color: rgb(231, 230, 230);
+    font-size: 14px;
+}
+
+.right-navbar {
+    display: flex;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+}
+
+
+.ashok-photo {
+    border-radius: 50%;
+
+    height: 40px;
+
+    margin: 5px;
+}
+
+.btn {
+    background-color: rgba(57, 57, 164, 0.838);
+    color: white;
+}
+
+.login-icon {
+    margin: 3px 12px;
+}
+
+.dark-mode {
+    border-radius: 30%;
+
+    background-color: rgb(131, 49, 49);
+    height: 40px;
+}
