@@ -1,0 +1,92 @@
+.outer-top-part {
+    margin: 0px 40px;
+}
+
+.top-part {
+    display: flex;
+    align-items: center;
+    padding: 0px 45px;
+    margin: 30px 0px;
+}
+
+.top-part > div > hr {
+    width: 782px;
+    margin-left: 30px;
+}
+
+.arrows {
+    display: flex;
+    justify-content: space-between;
+
+    width: 150px;
+    padding: 0px 15px;
+}
+
+.top-part > button {
+    display: flex;
+    align-items: center;
+
+    width: 150px;
+    height: 50px;
+    padding: 0px 10px 0px 30px;
+    font-size: medium;
+    border: none;
+    border-radius: 5px;
+}
+
+.left-arrow {
+    width: 50px;
+    height: 45px;
+    background-color: rgb(208, 208, 208);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 50%;
+}
+
+.right-arrow {
+    width: 50px;
+    height: 47px;
+    background-color: rgb(208, 208, 208);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 50%;
+
+}
+
+.bottom-part {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin: 30px 100px;
+}
+
+.box {
+    width: 200px;
+    height: 300px;
+    background-color: rgb(204, 204, 204);
+
+    border-radius: 10px;
+}
+
+.box > img {
+    width: 180px;
+    height: 180px;
+
+    margin: 30px 10px 20px 10px;
+    border-radius: 50%;
+}
+
+.text-info > h4 {
+    display: flex;
+    justify-content: center;
+}
+
+.text-info > p {
+    display: flex;
+    justify-content: center;
+}

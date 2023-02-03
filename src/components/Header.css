@@ -50,12 +50,26 @@
 }
 
 .btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
     background-color: rgba(57, 57, 164, 0.838);
     color: white;
+
+    width: 100px;
+    height: 40px;
 }
 
 .login-icon {
     margin: 3px 12px;
+    width: 15px;
+    height: 15px;
+}
+
+.login-text {
+    font-size: 16px;
+    padding-right: 20px;
 }
 
 .dark-mode {

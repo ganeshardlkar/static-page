@@ -1,0 +1,141 @@
+.hot-collections-section {
+    margin: 50px 40px;
+}
+
+.top-part {
+    display: flex;
+    align-items: center;
+    padding: 0px 45px;
+    margin: 30px 0px;
+}
+
+.top-part > div > hr {
+    width: 785px;
+    margin-left: 30px;
+}
+
+.arrows {
+    display: flex;
+    justify-content: space-between;
+
+    width: 150px;
+    padding: 0px 15px;
+}
+
+.top-part > button {
+    display: flex;
+    align-items: center;
+
+    width: 150px;
+    height: 50px;
+    padding: 0px 10px 0px 30px;
+    font-size: medium;
+    border: none;
+    border-radius: 5px;
+}
+
+.left-arrow {
+    width: 50px;
+    height: 45px;
+    background-color: rgb(208, 208, 208);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 50%;
+}
+
+.right-arrow {
+    width: 50px;
+    height: 47px;
+    background-color: rgb(208, 208, 208);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 50%;
+
+}
+
+.cards {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card-1 {
+    background-color: rgb(237, 232, 232);
+    margin: 5px 10px;
+    border-radius: 6px;
+
+    width: 400px;
+    height: 460px;
+}
+
+.card-top-part {
+
+}
+
+.one-img-top{
+    width: 380px;
+    height: 250px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.three-images {
+    display: flex;
+}
+
+
+.small-images {
+    width: 118px;
+    height: 95px;
+    margin: 5px 0px;
+    margin-right: 17px;
+
+    border-radius: 5px;
+}
+
+.small-img-1 {
+    margin-left: 12px;
+}
+
+.card-bottom-part {
+    padding: 5px 10px;
+}
+
+.middle-img {
+    border-radius: 50%;
+    width: 100px;
+}
+
+.card-bottom-part > h5 {
+    display: flex;
+    justify-content: center;
+
+    color: rgba(50, 50, 50, 0.881);
+}
+
+.card-bottom-part > p {
+    display: flex;
+    justify-content: center;
+}
+.card-2 {
+    background-color: rgb(237, 232, 232);
+
+    margin: 5px 10px;
+    border-radius: 6px;
+
+    width: 400px;
+    height: 460px;
+}
+
+.card-3 {
+    background-color: rgb(237, 232, 232);
+
+    margin: 5px 10px;
+    border-radius: 6px;
+
+    width: 400px;
+    height: 460px;
+}

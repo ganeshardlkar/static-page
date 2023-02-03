@@ -39,7 +39,7 @@ function Header() {
                 </div>
 
                 <div>
-                    <button className="btn"><LoginIcon className="login-icon"/>Login</button>
+                    <button className="btn"><LoginIcon className="login-icon"/><p className="login-text">Login</p></button>
                 </div>
             </div>
         </div>

@@ -1,0 +1,187 @@
+.footer {
+    background-color: aliceblue;
+    padding: 60px 50px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h5 {
+    font-size: 20px;
+    margin: 10px 0px;
+}
+
+/* first  */
+
+.first {
+    width: 300px;
+}
+
+.logo-text {
+    display: flex;
+    background-color: white;
+
+    width: 150px;
+    padding: 5px 0px;
+
+    border-radius: 5px;
+}
+
+.nft-logo {
+    width: 30px;
+    height: 30px;
+    margin: 0px 10px 0px 3px;
+}
+
+.logo-text p {
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+
+
+.first > p {
+    margin: 20px 0px;
+}
+
+.dropdown> p {
+    font-weight: bold;
+}
+
+.dropdown button {
+    background-color: white;
+}
+
+.btn {
+    all: unset;
+    padding: 5px 10px;
+    margin: 10px 0px;
+    display: flex;
+    border-radius: 20px;
+    width: 120px;
+
+    border: 2px solid rgba(160, 159, 159, 0.723);
+}
+
+.btn img {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.btn  p {
+    margin-right: 20px;
+    font-size: 15px;
+}
+/* second  */
+
+.second {
+    width: 230px;
+
+    margin: 10px;
+}
+
+.second p {
+    font-size: small;
+    line-height: 35px
+}
+
+h6 {
+    color: rgb(133, 130, 130);
+    line-height: 30px;
+}
+
+/* third  */
+
+.third {
+    width: 230px;
+}
+
+.third p {
+    font-size: small;
+    line-height: 35px
+}
+
+/* fourth */
+
+
+.fourth h5{
+    margin-left: 10px;
+}
+
+.email-submit {
+    margin: 20px 20px 0px 10px;
+    padding: 5px;
+
+    background-color: white;
+    border-radius: 7px;
+}
+
+.email-submit button {
+    all: unset;
+
+    background-color: rgba(9, 81, 237, 0.851);
+    color: white;
+
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 14px;
+    padding: 10px 20px;
+}
+
+.email-input {
+    color: rgb(133, 130, 130);
+    padding: 10px;
+    border: none;
+
+}
+
+.social-media {
+    display: flex;
+
+    padding: 8px;
+    margin: 20px 0px;
+}
+
+.social-media div {
+    background-color: white;
+    box-shadow: 3px;
+    border-radius: 5px;
+}
+
+.single-social-media {
+    color: rgb(133, 130, 130);
+    background-color: white;
+    width: 40px;
+    height: 30px;
+    margin: 8px;
+    border-radius: 5px;
+}
+
+/* horizontal rule  */
+
+hr {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Copyright content css  */
+
+.copyright-section {
+
+    background-color: aliceblue;
+
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.copyright-content {
+    color: rgb(119, 117, 117);
+}
+span {
+    color: rgb(55, 84, 228);
+}
